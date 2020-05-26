@@ -1,0 +1,1 @@
+# python-ile-mini-projeler
