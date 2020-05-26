@@ -2,7 +2,8 @@
 # kubilay@kubilay.net
 # Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
 
-import arackiralama #arackiralama.py modülü import ediliyor
+from arackiralama import arackiralama
+
 araclar = []
 kasa = 0
 
@@ -12,7 +13,7 @@ def aracEkle():
     model = input("Aracın modelini giriniz: ")
     renk = input("Aracın rengini giriniz: ")
     fiyat = int(input("Aracın fiyatını giriniz: "))
-    otomobil = arackiralama.Otomobil(ID, marka,model, renk, fiyat)
+    otomobil = arackiralama.Otomobil(ID, marka, model, renk, fiyat)
     araclar.append(otomobil)
 
 def minibusEkle():
@@ -21,7 +22,7 @@ def minibusEkle():
     model = input("Minibüsün modelini giriniz: ")
     renk = input("Minibüsün rengini giriniz: ")
     fiyat = int(input("Minibüsün fiyatını giriniz: "))
-    minibus = arackiralama.Minibus(ID, marka,model, renk, fiyat)
+    minibus = arackiralama.Minibus(ID, marka, model, renk, fiyat)
     minibus.Surucu = "Hasan Tahsin"
     araclar.append(minibus)
 
