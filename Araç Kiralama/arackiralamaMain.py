@@ -2,7 +2,7 @@
 # kubilay@kubilay.net
 # Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
 
-from arackiralama import arackiralama
+import arackiralama
 
 araclar = []
 kasa = 0
