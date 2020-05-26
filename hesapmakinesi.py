@@ -1,3 +1,7 @@
+# Kubilay Erkeç
+# kubilay@kubilay.net
+# Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
+
 def hesapMakinesi(sayi1, sayi2, islem):
     sonuc = 0
     if islem == 1:

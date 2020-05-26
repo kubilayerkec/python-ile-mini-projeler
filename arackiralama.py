@@ -1,3 +1,7 @@
+# Kubilay Erkeç
+# kubilay@kubilay.net
+# Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
+
 class Tasit():
     def __init__(self, ID, marka, model, renk, fiyat):
         self.ID = ID

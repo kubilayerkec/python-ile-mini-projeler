@@ -1,4 +1,8 @@
-import arackiralama
+# Kubilay Erkeç
+# kubilay@kubilay.net
+# Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
+
+import arackiralama #arackiralama.py modülü import ediliyor
 araclar = []
 kasa = 0
 

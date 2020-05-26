@@ -1,3 +1,7 @@
+# Kubilay Erkeç
+# kubilay@kubilay.net
+# Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
+
 import random
 uretilenSayi = random.randint(1,100)
 tahminHakki = 5

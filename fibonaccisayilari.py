@@ -1,3 +1,7 @@
+# Kubilay Erkeç
+# kubilay@kubilay.net
+# Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
+
 # 0 1 1 2 3 5 8 13 21 34 ... -> 10 tanesi
 # kubilay@kubilay.net
 

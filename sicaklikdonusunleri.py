@@ -1,3 +1,7 @@
+# Kubilay Erkeç
+# kubilay@kubilay.net
+# Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
+
 #Celsius        ->     Fahrenheit   ->      °F = °C × 1.8 + 32
 #Fahrenheit     ->     Celsius	    ->      °C = (°F – 32) / 1.8
 #Celsius	    ->     Kelvin       ->  	°K = °C + 273.15

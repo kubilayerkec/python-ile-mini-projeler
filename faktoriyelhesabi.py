@@ -1,3 +1,7 @@
+# Kubilay Erkeç
+# kubilay@kubilay.net
+# Udemy Eğitimleri: https://www.udemy.com/user/kubilay-erkec/
+
 def Faktoriyel(sayi):
     faktoriyel = 1;
     if sayi < 0:
